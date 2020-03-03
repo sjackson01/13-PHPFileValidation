@@ -33,7 +33,7 @@
         }    
     }
     ?>
-    <form enctype="multipart/form-data" action="upload_rtf.php" method="post">
+    <form enctype="multipart/form-data" action="index.php" method="post">
         <input type="hidden" name="MAX_FILE_SIZE" value="524288">
             <fieldset>
                 <legend>Select an RTF document of 512KB or smaller to be uploaded:</legend>
